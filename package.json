@@ -1,6 +1,6 @@
 {
   "name": "number-bonds",
-  "homepage": "http://sethc2.github.io/which-number-next",
+  "homepage": "http://sethc2.github.io/number-bonds",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
